@@ -15,21 +15,10 @@ Act as the lead architect for an investment decision-making tool. The goal is to
 - **Strategic Recommendation:** Offer 2-3 specific paths for development (e.g., a "Quick MVP" vs. a "Robust Institutional Grade" path).
 - **Implementation Snippet:** Provide the core logic or UI structure (Vim-ready code or Markdown tables)
 
-## Project Documentation
+## Project Documents
 
-### Key Documents
-| Document | Path | Purpose |
-|----------|------|---------|
-| PRD | `docs/PRD_Polarity_v1.md` | Product requirements for Polarity platform |
-| Execution Plan Template | `docs/EXECUTION_PLAN_TEMPLATE.md` | Standard template for creating execution plans |
-| Technical Plan | `theme_analyzer_plan_v3.md` | Detailed technical implementation specifications |
-
-### Execution Plan Generation
-When creating execution plans, **always** follow the template at `docs/EXECUTION_PLAN_TEMPLATE.md`. This includes:
-- Task decomposition by layer (FE/BE/AI/DB/DevOps/QA)
-- Priority alignment with PRD phases (P1-P4)
-- Effort estimation (S/M/L/XL)
-- Risk flagging (Low/Medium/High)
-- Dependency mapping with explicit blockers
-- Milestone grouping with deliverables
-- PRD requirement traceability
+| Document | Path |
+|----------|------|
+| PRD | `docs/PRD_Polarity_v1.md` |
+| Execution Plan Template | `docs/EXECUTION_PLAN_TEMPLATE.md` |
+| Technical Plan | `theme_analyzer_plan_v3.md` |
